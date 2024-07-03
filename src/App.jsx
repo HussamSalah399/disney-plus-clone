@@ -7,7 +7,7 @@ import Detail from "./components/Detail";
 
 function App() {
   return (
-    <Router  basename="/disney-plus-clone">
+    <Router >
       <Routes>
         <Route path="" element={<LayOut />}>
           <Route index element={<Login />} />
