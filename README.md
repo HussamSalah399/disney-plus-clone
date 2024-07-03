@@ -10,12 +10,13 @@ Check out the live demo of the project: [Disney Plus Clone](https://disneyplus-c
 
 This project aims to replicate the Disney Plus website using React and other web technologies. It includes features such as user authentication, browsing movies and shows, and viewing detailed information about each content item.
 
-## Features
+## Technologies Used
 
-- User authentication (Login/Logout)
-- Browse movies and TV shows
-- View detailed information about each content item
-- Responsive design for various screen sizes
+- React
+- React Router
+- Styled Components
+- Redux
+- Firebase (for hosting and backend services)
 
 ## Installation
 
@@ -26,12 +27,6 @@ To run this project locally, follow these steps:
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit: `http://localhost:3000`
-
-## Technologies Used
-
-- React
-- React Router
-- Firebase (for hosting and backend services)
 
 ## Contributing
 
